@@ -1,6 +1,6 @@
 # WeatherApp UI
 
-Build a UI for weather appbusing SwiftUI
+Build a UI for weather app using SwiftUI framework for IOS environment.
 
 # Screenshot 
 
